@@ -1,0 +1,7 @@
+furniture Difference Percentage: 0.00%
+lighting Difference Percentage: 0.00%
+accessories Difference Percentage: 0.00%
+loungeChair Difference Percentage: 0.00%
+bookShelf Difference Percentage: 31.92%
+daylight Difference Percentage: 0.00%
+theme Difference Percentage: 0.00%
